@@ -12,10 +12,10 @@ export const sxInputs = (theme: Theme) => ({
 export const sxButton = (theme: Theme) => ({
     [theme.breakpoints.down('md')]: {
         width: '90%',
-        'font-size': '0.8rem'
+        fontSize: '0.8rem'
     },
     [theme.breakpoints.down('sm')]: {
         width: '70%',
-        'font-size': '0.6rem'
+        fontSize: '0.6rem'
     }
 });
