@@ -1,0 +1,11 @@
+@media screen and (max-width: 900px) {
+    .formTitle {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .formTitle {
+        font-size: 1.2rem;
+    }
+}
